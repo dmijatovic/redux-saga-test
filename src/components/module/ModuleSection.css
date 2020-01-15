@@ -1,0 +1,15 @@
+
+.ModuleSection-block{
+  padding: 1rem;
+  border: 1px solid goldenrod;
+}
+
+.ModuleSection-title{
+  padding: 1rem 0rem;
+}
+
+.ModuleSection-cells{
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap:0.25rem;
+}

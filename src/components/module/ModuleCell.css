@@ -1,0 +1,31 @@
+
+.ModuleCell{
+  width: 100%;
+  height: 100%;
+  padding-top: 1rem;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.ModuleCell td{
+  padding: 0.5rem;
+}
+
+.ModuleCell.IDLE{
+  background-color: #ccc;
+}
+
+.ModuleCell.FAILED{
+  background-color: red;
+  color: #fff;
+}
+
+.ModuleCell.WAITING{
+  background-color: goldenrod;
+  color: #fff;
+}
+
+.ModuleCell.COMPLETED{
+  background-color: lightseagreen;
+  color: #fff;
+}

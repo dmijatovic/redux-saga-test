@@ -1,0 +1,15 @@
+
+
+.Paragraph-title{
+  padding: 1rem;
+}
+
+.Paragraph-body{
+  padding: 1rem;
+  font-size: 1rem;
+  line-height: 1.7rem;
+}
+
+.Paragraph-body ul{
+  padding-left: 3rem;
+}
